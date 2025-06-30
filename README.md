@@ -122,7 +122,7 @@ POST /slack/update
 }
 ```
 
-📸 Screenshots
+###📸 Screenshots
 
 
 ![alt text](image.png)
@@ -130,7 +130,7 @@ POST /slack/update
 ![alt text](image-1.png)
 
 
-🙋‍♂️ Author
+###🙋‍♂️ Author
 Akshay A.
 
 MERN Stack Developer
