@@ -121,6 +121,7 @@ POST /slack/update
 "text": "Updated message"
 }
 ```
+---
 
 ###📸 Screenshots
 
