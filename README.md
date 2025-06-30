@@ -120,7 +120,7 @@ POST /slack/update
 "ts": "1234567890.123456",
 "text": "Updated message"
 }
-
+```
 
 📸 Screenshots
 
