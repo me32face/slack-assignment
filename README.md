@@ -130,13 +130,16 @@ POST /slack/update
 ![alt text](image-1.png)
 
 
-###🙋‍♂️ Author
-Akshay A.
+---
 
-MERN Stack Developer
+## 🙋‍♂️ Author
 
-Portfolio: https://portfolio-akshay-244.vercel.app
+<h3><strong>Akshay A.</strong></h3>
+<p><strong>MERN Stack Developer</strong></p>
 
-LinkedIn: https://www.linkedin.com/in/akshay-a-023a472a4
+<p>
+  <strong>Portfolio:</strong> <a href="https://portfolio-akshay-244.vercel.app" target="_blank">portfolio-akshay-244.vercel.app</a><br>
+  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/akshay-a-023a472a4" target="_blank">linkedin.com/in/akshay-a-023a472a4</a><br>
+  <strong>GitHub:</strong> <a href="https://github.com/me32face" target="_blank">github.com/me32face</a>
+</p>
 
-Github: https://github.com/me32face
